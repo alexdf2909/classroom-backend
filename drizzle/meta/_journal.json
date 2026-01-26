@@ -8,6 +8,13 @@
       "when": 1769302210810,
       "tag": "0000_cynical_amphibian",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1769447400121,
+      "tag": "0001_curious_yellowjacket",
+      "breakpoints": true
     }
   ]
 }
